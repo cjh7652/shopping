@@ -61,9 +61,7 @@ const Navwrap= () => {
               </li>
             </ul>
           </li>
-          <li>
-            <Link to="/detail">detail</Link>
-          </li>
+          
         </ul>
       </nav> 
     </div>

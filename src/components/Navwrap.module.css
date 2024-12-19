@@ -4,7 +4,8 @@ nav{
   height: 80px;
   display: flex;
   align-items: center;
-  background: red;
+  padding: 0 30px;
+
 }
 nav>ul{
   display: flex;
